@@ -527,6 +527,7 @@ p {
 }
 .footer-input {
   font-size: 12px;
+  line-height: 2;
   letter-spacing: 0.48px;
   width: 264px;
   height: 40px;
