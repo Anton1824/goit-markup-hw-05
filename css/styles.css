@@ -541,3 +541,24 @@ p {
 .footer-input::placeholder {
   color: #ffffff;
 }
+.type-sendbutton {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  display: inline-flex;
+  padding: 8px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  border-radius: 4px;
+  background: #4d5ae5;
+  border: none;
+}
+.icon-foot {
+  margin-left: 16px;
+  fill: #ffffff;
+}
