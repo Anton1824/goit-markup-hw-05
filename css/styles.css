@@ -544,7 +544,7 @@ p {
 .type-sendbutton {
   color: #fff;
   text-align: center;
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -557,6 +557,7 @@ p {
   border-radius: 4px;
   background: #4d5ae5;
   border: none;
+  min-width: 165px;
 }
 .icon-foot {
   margin-left: 16px;
