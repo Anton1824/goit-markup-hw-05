@@ -751,7 +751,8 @@ p {
   letter-spacing: 0.04em;
   text-decoration-line: underline;
 }
-.input-checkbox:checked + .label-checkbox > .custom-checkbox {
+.visually-hidden:checked + .label-checkbox > .custom-checkbox {
   background-color: #404bbf;
+  border: none;
   fill: #f4f4fd;
 }
